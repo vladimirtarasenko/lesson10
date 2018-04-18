@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PatientList>
+    <Patient>
+        <Name>Ivan</Name>
+        <SecondName>Petrov</SecondName>
+        <Birthday>1966-05-04</Birthday>
+        <IsHealthy>true</IsHealthy>
+     </Patient>
+    <Patient>
+        <Name>Petr</Name>
+        <SecondName>Ivanov</SecondName>
+        <Birthday>1978-10-11</Birthday>
+        <IsHealthy>false</IsHealthy>
+    </Patient>
+    <Patient>
+        <Name>Semen</Name>
+        <SecondName>Semenov</SecondName>
+        <Birthday>1982-11-12</Birthday>
+        <IsHealthy>true</IsHealthy>
+    </Patient>
+</PatientList>
