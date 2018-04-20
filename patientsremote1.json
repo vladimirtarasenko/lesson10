@@ -1,0 +1,23 @@
+
+   [
+    {
+      "firstName": "Ozzy",
+      "secondName": "Osbourne",
+      "birthday": "1948-04-05",
+      "isHealthy": "true"
+    },
+    {
+      "firstName": "Bonn",
+      "secondName": "Scott",
+      "birthday": "1959-07-11",
+      "isHealthy": "false"
+    },
+    {
+      "firstName": "James",
+      "secondName": "Hetfield",
+      "birthday": "1968-10-12",
+      "isHealthy": "true"
+    }
+
+
+  ]
