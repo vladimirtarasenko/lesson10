@@ -1,0 +1,46 @@
+{
+  "name": "Super bolnica 5",
+  "location": "Minsk",
+  "patients": [
+    {
+      "id": 0,
+      "name": "Ivan Ivanov",
+      "diagnosis": "Flu",
+      "dateOfBirth": "2004-10-25",
+      "daysStayInHospital": 20,
+      "readyForCheckOut": false
+    },
+    {
+      "id": 1,
+      "name": "Vladimir Vladimirov",
+      "diagnosis": "Headache",
+      "dateOfBirth": "1998-03-24",
+      "daysStayInHospital": 15,
+      "readyForCheckOut": true
+    },
+    {
+      "id": 2,
+      "name": "Elena Petrova",
+      "diagnosis": "Pregnancy",
+      "dateOfBirth": "1999-05-02",
+      "daysStayInHospital": 10,
+      "readyForCheckOut": false
+    },
+    {
+      "id": 3,
+      "name": "Sergei Sergeev",
+      "diagnosis": "Ulcer",
+      "dateOfBirth": "1995-12-10",
+      "daysStayInHospital": 34,
+      "readyForCheckOut": true
+    },
+    {
+      "id": 4,
+      "name": "Petr Petrov",
+      "diagnosis": "Fever",
+      "dateOfBirth": "2005-05-04",
+      "daysStayInHospital": 12,
+      "readyForCheckOut": true
+    }
+  ]
+}
